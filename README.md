@@ -5,3 +5,7 @@ Completed Automate The Boring Stuff (3rd Edition) Programs & Practice Projects f
 ## [Chapter 1 - Python Basics](https://automatetheboringstuff.com/3e/chapter1.html)
 ### Programs
 - [Your First Program](./chapter-01/programs/hello.py)
+## [Chapter 2 - if-else and Flow Control](https://automatetheboringstuff.com/3e/chapter2.html)
+### Programs
+- [Opposite Day](./chapter-02/programs/oppositeday.py)
+- [Dishonest Capacity Calculator](./chapter-02/programs/dishonestcapacity.py)
