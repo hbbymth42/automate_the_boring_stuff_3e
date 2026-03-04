@@ -9,3 +9,7 @@ Completed Automate The Boring Stuff (3rd Edition) Programs & Practice Projects f
 ### Programs
 - [Opposite Day](./chapter-02/programs/oppositeday.py)
 - [Dishonest Capacity Calculator](./chapter-02/programs/dishonestcapacity.py)
+## [Chapter 3 - Loops](https://automatetheboringstuff.com/3e/chapter3.html)
+### Programs
+- [Guess the Number](./chapter-03/programs/guessTheNumber.py)
+- [Rock, Paper, Scissors](./chapter-03/programs/rpsGame.py)
