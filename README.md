@@ -26,4 +26,15 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Rock, Paper, Scissors](./chapter-03/programs/rpsGame.py)
 ## [Chapter 4 - Functions](https://automatetheboringstuff.com/3e/chapter4.html)
 ### Programs
-- 
+- [Hello Function](./chapter-04/programs/helloFunc.py)
+- [Hello Function 2](./chapter-04/programs/helloFunc2.py)
+- [Magic 8 Ball](./chapter-04/programs/magic8Ball.py)
+- [Coin Flip](./chapter-04/programs/coinflip.py)
+- [ABCD Call Stack](./chapter-04/programs/abcdCallStack.py)
+- [Local Global Same Name](./chapter-04/programs/localGlobalSameName.py)
+- [Global Statement](./chapter-04/programs/globalStatement.py)
+- [Same Name Local Global](./chapter-04/programs/sameNameLocalGlobal.py)
+- [Same Name Error](./chapter-04/programs/sameNameError.py)
+- [Zero Divide](./chapter-04/programs/zeroDivide.py)
+- [Zigzag](./chapter-04/programs/zigzag.py)
+- [Spike](./chapter-04/programs/spike.py)
