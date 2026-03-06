@@ -38,3 +38,6 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Zero Divide](./chapter-04/programs/zeroDivide.py)
 - [Zigzag](./chapter-04/programs/zigzag.py)
 - [Spike](./chapter-04/programs/spike.py)
+### Practice Programs
+- [The Collatz Sequence](./chapter-04/practice_programs/collatzSequence.py)
+- [Input Validation (Extension to The Collatz Sequence)](./chapter-04/practice_programs/collatzSequence.py)
