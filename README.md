@@ -41,3 +41,9 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 ### Practice Programs
 - [The Collatz Sequence](./chapter-04/practice-programs/collatzSequence.py)
 - [Input Validation (Extension to The Collatz Sequence)](./chapter-04/practice-programs/collatzSequence.py)
+## [Chapter 5 - Debugging](https://automatetheboringstuff.com/3e/chapter5.html)
+### Programs
+- [Box Print](./chapter-05/programs/boxPrint.py)
+- [Factorial Log](./chapter-05/programs/factorialLog.py)
+- [Buggy Adding Program](./chapter-05/programs/buggyAddingProgram.py)
+- [Coin Flip](./chapter-05/programs/coinFlip.py)
