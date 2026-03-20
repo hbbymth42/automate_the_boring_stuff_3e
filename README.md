@@ -47,3 +47,5 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Factorial Log](./chapter-05/programs/factorialLog.py)
 - [Buggy Adding Program](./chapter-05/programs/buggyAddingProgram.py)
 - [Coin Flip](./chapter-05/programs/coinFlip.py)
+### Practice Programs
+- [Debugging Coin Toss](./chapter-05/practice-programs/debuggingCoinToss.py)
