@@ -49,3 +49,11 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Coin Flip](./chapter-05/programs/coinFlip.py)
 ### Practice Programs
 - [Debugging Coin Toss](./chapter-05/practice-programs/debuggingCoinToss.py)
+## [Chapter 6 - Lists](https://automatetheboringstuff.com/3e/chapter6.html)
+### Programs
+- [All My Cats 1](./chapter-06/programs/allMyCats1.py)
+- [All My Cats 2](./chapter-06/programs/allMyCats2.py)
+- [My Pets](./chapter-06/programs/myPets.py)
+- [Magic 8 Ball 2](./chapter-06/programs/magic8Ball2.py)
+- [Passing Reference](./chapter-06/programs/passingReference.py)
+- [The Matrix Screensaver](./chapter-06/programs/matrixScreensaver.py)
