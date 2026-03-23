@@ -57,3 +57,6 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Magic 8 Ball 2](./chapter-06/programs/magic8Ball2.py)
 - [Passing Reference](./chapter-06/programs/passingReference.py)
 - [The Matrix Screensaver](./chapter-06/programs/matrixScreensaver.py)
+### Practice Programs
+- [Comma Code](./chapter-06/practice-programs/commaCode.py)
+- [Coin Flip Streaks](./chapter-06/practice-programs/coinFlipStreaks.py)
