@@ -12,5 +12,6 @@ for experiment_number in range(10000):  # Run 100,000 experiments total.
     for i in range(len(head_tail_list) - 6):
         if head_tail_list[i:i+6] == ['H', 'H', 'H', 'H', 'H', 'H'] or head_tail_list[i:i+6] == ['T', 'T', 'T', 'T', 'T', 'T']:
             number_of_streaks += 1
+            break
 
-print('Chance of streak: %s%%' % (number_of_streaks / 10000))
+print('Chance of streak: %s%%' % (number_of_streaks / 100))
