@@ -60,3 +60,9 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 ### Practice Programs
 - [Comma Code](./chapter-06/practice-programs/commaCode.py)
 - [Coin Flip Streaks](./chapter-06/practice-programs/coinFlipStreaks.py)
+## [Chapter 7 - Dictionaries and Structuring Data](https://automatetheboringstuff.com/3e/chapter7.html)
+### Programs
+- [Birthdays](./chapter-07/programs/birthdays.py)
+- [Character Count](./chapter-07/programs/characterCount.py)
+- [Chessboard](./chapter-07/programs/chessboard.py)
+- [Guest Picnic](./chapter-07/programs/guestpicnic.py)
