@@ -70,3 +70,10 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Chess Dictionary Validator](./chapter-07/practice-programs/chessDictionaryValidator.py)
 - [Fantasy Game Inventory](./chapter-07/practice-programs/fantasyGameInventory.py)
 - [List-to-Dictionary Loot Conversion (Extension to Fantasy Game Inventory)](./chapter-07/practice-programs/fantasyGameInventory.py)
+## [Chapter 8 - Strings and Text Editing](https://automatetheboringstuff.com/3e/chapter8.html)
+### Programs
+- [Feed Cat](./chapter-08/programs/feedcat.py)
+- [Validating Input](./chapter-08/programs/validateInput.py)
+- [Alternating Text](./chapter-08/programs/alternatingText.py)
+- [Bullet Point Adder](./chapter-08/programs/bulletPointAdder.py)
+- [Pig Latin](./chapter-08/programs/pigLat.py)
