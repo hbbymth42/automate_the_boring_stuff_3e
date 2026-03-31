@@ -66,3 +66,7 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Character Count](./chapter-07/programs/characterCount.py)
 - [Chessboard](./chapter-07/programs/chessboard.py)
 - [Guest Picnic](./chapter-07/programs/guestpicnic.py)
+### Practice Programs
+- [Chess Dictionary Validator](./chapter-07/practice-programs/chessDictionaryValidator.py)
+- [Fantasy Game Inventory](./chapter-07/practice-programs/fantasyGameInventory.py)
+- [List-to-Dictionary Loot Conversion (Extension to Fantasy Game Inventory)](./chapter-07/practice-programs/fantasyGameInventory.py)
