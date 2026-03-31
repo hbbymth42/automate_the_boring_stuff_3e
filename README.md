@@ -77,3 +77,5 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Alternating Text](./chapter-08/programs/alternatingText.py)
 - [Bullet Point Adder](./chapter-08/programs/bulletPointAdder.py)
 - [Pig Latin](./chapter-08/programs/pigLat.py)
+### Practice Programs
+- [Table Printer](./chapter-08/practice-programs/tablePrinter.py)
