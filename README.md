@@ -83,3 +83,6 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 ### Programs
 - [Is Phone Number?](./chapter-09/programs/isPhoneNumber.py)
 - [Extract Contact Information from Large Documents](./chapter-09/programs/phoneAndEmail.py)
+### Practice Programs
+- [Strong Password Detection](./chapter-09/practice-programs/strongPasswordDetection.py)
+- [Regex Version of the strip() Method](./chapter-09/practice-programs/regexStripMethod.py)
