@@ -86,3 +86,9 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 ### Practice Programs
 - [Strong Password Detection](./chapter-09/practice-programs/strongPasswordDetection.py)
 - [Regex Version of the strip() Method](./chapter-09/practice-programs/regexStripMethod.py)
+## [Chapter 10 - Reading and Writing Files](https://automatetheboringstuff.com/3e/chapter10.html)
+### Programs
+- [Generate Random Quiz Files](./chapter-10/programs/randomQuizGenerator.py)
+### Practice Programs
+- [Mad Libs](./chapter-10/practice-programs/madLibs.py)
+- [Regex Search](./chapter-10/practice-programs/regexSearch.py)
