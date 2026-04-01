@@ -79,3 +79,7 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Pig Latin](./chapter-08/programs/pigLat.py)
 ### Practice Programs
 - [Table Printer](./chapter-08/practice-programs/tablePrinter.py)
+## [Chapter 9 - Text Pattern Matching with Regular Expressions](https://automatetheboringstuff.com/3e/chapter9.html)
+### Programs
+- [Is Phone Number?](./chapter-09/programs/isPhoneNumber.py)
+- [Extract Contact Information from Large Documents](./chapter-09/programs/phoneAndEmail.py)
