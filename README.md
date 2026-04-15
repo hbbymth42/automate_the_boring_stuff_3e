@@ -92,3 +92,7 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 ### Practice Programs
 - [Mad Libs](./chapter-10/practice-programs/madLibs.py)
 - [Regex Search](./chapter-10/practice-programs/regexSearch.py)
+## [Chapter 11 - Organising Files](https://automatetheboringstuff.com/3e/chapter11.html)
+### Programs
+- [Walk Directory Tree & Rename Files to Uppercase](./chapter-11/programs/walkDirectoryRenameUppercase.py)
+- [Back Up a Folder into a ZIP File](./chapter-11/programs/backup_to_zip.py)
