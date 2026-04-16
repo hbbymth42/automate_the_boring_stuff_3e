@@ -96,3 +96,9 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 ### Programs
 - [Walk Directory Tree & Rename Files to Uppercase](./chapter-11/programs/walkDirectoryRenameUppercase.py)
 - [Back Up a Folder into a ZIP File](./chapter-11/programs/backup_to_zip.py)
+### Practice Programs
+- [Selectively Copying](./chapter-11/practice-programs/selectiveCopy.py)
+- [Deleting Unneeded Files](./chapter-11/practice-programs/deletingUnneededFiles.py)
+- [Renumbering Files](./chapter-11/practice-programs/fillGaps.py)
+- [Insert Gaps](./chapter-11/practice-programs/insertGaps.py)
+- [Converting Dates from American- to European-Style](./chapter-11/practice-programs/convertAmericanEuropean.py)
