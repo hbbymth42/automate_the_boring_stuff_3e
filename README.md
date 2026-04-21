@@ -107,3 +107,8 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Snowstorm](./chapter-12/programs/snowstorm.py)
 - [Copying the Current Working Directory](./chapter-12/programs/ccwd.py)
 - [Clipboard Recorder](./chapter-12/programs/cliprec.py)
+### Practice Programs
+- [Back Up a Folder into a ZIP File](./chapter-12/practice-programs/dist/backup_to_zip/backup_to_zip)
+- [Extract Contact Information from Large Documents](./chapter-12/practice-programs/dist/phoneAndEmail/phoneAndEmail)
+- [Add Bullets to Wiki Markup](./chapter-12/practice-programs/dist/bulletPointAdder/bulletPointAdder)
+- [Interactive Chessboard Simulator](./chapter-12/practice-programs/dist/chessboard/chessboard)
