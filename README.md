@@ -1,4 +1,4 @@
-# Automate the Boring Stuff (3rd Edition)
+# Automate the Boring Stuff (2rd Edition)
 
 Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice Programs from the [Book](https://automatetheboringstuff.com/3e/)
 
@@ -102,3 +102,8 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Renumbering Files](./chapter-11/practice-programs/fillGaps.py)
 - [Insert Gaps](./chapter-11/practice-programs/insertGaps.py)
 - [Converting Dates from American- to European-Style](./chapter-11/practice-programs/convertAmericanEuropean.py)
+## [Chapter 12 - Designing and Deploying Command Line Programs](https://automatetheboringstuff.com/3e/chapter12.html)
+### Programs
+- [Snowstorm](./chapter-12/programs/snowstorm.py)
+- [Copying the Current Working Directory](./chapter-12/programs/ccwd.py)
+- [Clipboard Recorder](./chapter-12/programs/cliprec.py)
