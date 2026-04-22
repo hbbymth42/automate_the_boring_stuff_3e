@@ -120,3 +120,6 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Image Site Downloader](./chapter-13/practice-programs/imageSiteDownloader.py)
 - [2048](./chapter-13/practice-programs/2048.py)
 - [Link Verification](./chapter-13/practice-programs/linkVerification.py)
+## [Chapter 14 - Excel Spreadsheets](https://automatetheboringstuff.com/3e/chapter14.html)
+- [Gather Census Statistics](./chapter-14/programs/readCensusExcel.py)
+- [Update a Spreadsheet](./chapter-14/programs/updateProduce.py)
