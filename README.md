@@ -116,3 +116,7 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 ### Programs
 - [Run a Program with the webbrowser Module](./chapter-13/programs/showmap.py)
 - [Download XKCD Comics](./chapter-13/programs/downloadXkcdComics.py)
+### Practice Programs
+- [Image Site Downloader](./chapter-13/practice-programs/imageSiteDownloader.py)
+- [2048](./chapter-13/practice-programs/2048.py)
+- [Link Verification](./chapter-13/practice-programs/linkVerification.py)
