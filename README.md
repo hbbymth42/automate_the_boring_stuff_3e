@@ -1,4 +1,4 @@
-# Automate the Boring Stuff (2rd Edition)
+# Automate the Boring Stuff (3rd Edition)
 
 Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice Programs from the [Book](https://automatetheboringstuff.com/3e/)
 
@@ -112,3 +112,7 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Extract Contact Information from Large Documents](./chapter-12/practice-programs/dist/phoneAndEmail/phoneAndEmail)
 - [Add Bullets to Wiki Markup](./chapter-12/practice-programs/dist/bulletPointAdder/bulletPointAdder)
 - [Interactive Chessboard Simulator](./chapter-12/practice-programs/dist/chessboard/chessboard)
+## [Chapter 13 - Web Scraping](https://automatetheboringstuff.com/3e/chapter13.html)
+### Programs
+- [Run a Program with the webbrowser Module](./chapter-13/programs/showmap.py)
+- [Download XKCD Comics](./chapter-13/programs/downloadXkcdComics.py)
