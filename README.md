@@ -131,3 +131,7 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 ### Programs
 - [Audit the Fake Blockchain](./chapter-15/programs/auditBoringcoin.py)
 - [Make Transactions](./chapter-15/programs/addBoringcoinTransaction.py)
+### Practice Programs
+- [Downloading Google Forms Data](./chapter-15/practice-programs/downloadingGoogleFormsData.py)
+- [Converting Spreadsheets to Other Formats](./chapter-15/practice-programs/convertSpreadsheetFormat.py)
+- [Finding Mistakes in a Spreadsheet](./chapter-15/practice-programs/findingMistakes.py)
