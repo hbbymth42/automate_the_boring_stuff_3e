@@ -127,3 +127,7 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 ### Practice Programs
 - [Multiplication Table Maker](./chapter-14/practice-programs/multiplicationTable.py)
 - [Blank Row Inserter](./chapter-14/practice-programs/blankRowInserter.py)
+## [Chapter 15 - Google Sheets](https://automatetheboringstuff.com/3e/chapter15.html)
+### Programs
+- [Audit the Fake Blockchain](./chapter-15/programs/auditBoringcoin.py)
+- [Make Transactions](./chapter-15/programs/addBoringcoinTransaction.py)
