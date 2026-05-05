@@ -135,3 +135,11 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Downloading Google Forms Data](./chapter-15/practice-programs/downloadingGoogleFormsData.py)
 - [Converting Spreadsheets to Other Formats](./chapter-15/practice-programs/convertSpreadsheetFormat.py)
 - [Finding Mistakes in a Spreadsheet](./chapter-15/practice-programs/findingMistakes.py)
+## [Chapter 16 - SQLite Databases](https://automatetheboringstuff.com/3e/chapter16.html)
+### Programs
+- [Example DB](./chapter-16/programs/example.db)
+- [Backup DB](./chapter-16/programs/backup.db)
+- [Test DB](./chapter-16/programs/test.db)
+- [Copying Databases](./chapter-16/programs/sweigartcats-queries.txt)
+### Practice Programs
+
