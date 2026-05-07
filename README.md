@@ -142,4 +142,5 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Test DB](./chapter-16/programs/test.db)
 - [Copying Databases](./chapter-16/programs/sweigartcats-queries.txt)
 ### Practice Programs
-
+- [Cat Vaccination Checker](./chapter-16/practice-programs/catVaccinationChecker.py)
+- [Meal Ingredients Database](./chapter-16/practice-programs/mealIngredients.py)
