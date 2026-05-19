@@ -150,3 +150,8 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Extract PDF Images](./chapter-17/programs/extractpdfimages.py)
 - [Combine Select Pages from Many PDFs](./chapter-17/programs/combine_pdfs.py)
 - [Getting the Full Text from a .docx File](./chapter-17/programs/readDocx.py)
+### Practice Programs
+- [PDF Paranoia - Encrypt](./chapter-17/practice-programs/pdfParanoiaEncrypt.py)
+- [PDF Paranoia - Decrypt](./chapter-17/practice-programs/pdfParanoiaDecrypt.py)
+- [Custom Invitations](./chapter-17/practice-programs/customInvitations.py)
+- [PDF Password Breaker](./chapter-17/practice-programs/pdfPasswordBreaker.py)
