@@ -155,3 +155,6 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [PDF Paranoia - Decrypt](./chapter-17/practice-programs/pdfParanoiaDecrypt.py)
 - [Custom Invitations](./chapter-17/practice-programs/customInvitations.py)
 - [PDF Password Breaker](./chapter-17/practice-programs/pdfPasswordBreaker.py)
+## [Chapter 18 - CSV, JSON, and XML Files](https://automatetheboringstuff.com/3e/chapter18.html)
+### Programs
+- [Remove the Header from CSV Files](./chapter-18/programs/removeCsvHeader.py)
