@@ -144,3 +144,9 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 ### Practice Programs
 - [Cat Vaccination Checker](./chapter-16/practice-programs/catVaccinationChecker.py)
 - [Meal Ingredients Database](./chapter-16/practice-programs/mealIngredients.py)
+## [Chapter 17 - PDF and Word Documents](https://automatetheboringstuff.com/3e/chapter17.html)
+### Programs
+- [Extract PDF Text](./chapter-17/programs/extractpdftext.py)
+- [Extract PDF Images](./chapter-17/programs/extractpdfimages.py)
+- [Combine Select Pages from Many PDFs](./chapter-17/programs/combine_pdfs.py)
+- [Getting the Full Text from a .docx File](./chapter-17/programs/readDocx.py)
