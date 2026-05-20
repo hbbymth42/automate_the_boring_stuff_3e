@@ -160,3 +160,8 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Remove the Header from CSV Files](./chapter-18/programs/removeCsvHeader.py)
 ### Practice Programs
 - [Excel-to-CSV Converter](./chapter-18/practice-programs/excelToCSVConverter.py)
+## [Chapter 19 - Keeping Time, Scheduling Tasks, and Launching Programs](https://automatetheboringstuff.com/3e/chapter19.html)
+### Programs
+- [Calculate Product](./chapter-19/programs/calcProd.py)
+- [Super Stopwatch](./chapter-19/programs/stopwatch.py)
+- [Simple Countdown](./chapter-19/programs/simplecountdown.py)
