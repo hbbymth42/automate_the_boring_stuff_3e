@@ -165,3 +165,7 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Calculate Product](./chapter-19/programs/calcProd.py)
 - [Super Stopwatch](./chapter-19/programs/stopwatch.py)
 - [Simple Countdown](./chapter-19/programs/simplecountdown.py)
+### Practice Programs
+- [Prettified Stopwatch](./chapter-19/practice-programs/prettifiedStopwatch.py)
+- [Friday the 13th Finder - Forward](./chapter-19/practice-programs/friday13FinderForward.py)
+- [Friday the 13th Finder - Backward](./chapter-19/practice-programs/friday13FinderBackward.py)
