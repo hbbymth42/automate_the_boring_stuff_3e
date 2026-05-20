@@ -158,3 +158,5 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 ## [Chapter 18 - CSV, JSON, and XML Files](https://automatetheboringstuff.com/3e/chapter18.html)
 ### Programs
 - [Remove the Header from CSV Files](./chapter-18/programs/removeCsvHeader.py)
+### Practice Programs
+- [Excel-to-CSV Converter](./chapter-18/practice-programs/excelToCSVConverter.py)
