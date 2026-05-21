@@ -169,3 +169,6 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Prettified Stopwatch](./chapter-19/practice-programs/prettifiedStopwatch.py)
 - [Friday the 13th Finder - Forward](./chapter-19/practice-programs/friday13FinderForward.py)
 - [Friday the 13th Finder - Backward](./chapter-19/practice-programs/friday13FinderBackward.py)
+## [Chapter 20 - Sending Email, Texts, and Push Notifications](https://automatetheboringstuff.com/3e/chapter20.html)
+### Practice Programs
+- [Umbrella Reminder](./chapter-20/practice-programs/umbrellaReminder.py)
