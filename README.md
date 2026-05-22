@@ -172,3 +172,6 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 ## [Chapter 20 - Sending Email, Texts, and Push Notifications](https://automatetheboringstuff.com/3e/chapter20.html)
 ### Practice Programs
 - [Umbrella Reminder](./chapter-20/practice-programs/umbrellaReminder.py)
+## [Chapter 21 - Making Graphs and Manipulating Images](https://automatetheboringstuff.com/3e/chapter21.html)
+### Programs
+- [Add a Logo](./chapter-21/programs/resizeAndAddLogo.py)
