@@ -175,3 +175,7 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 ## [Chapter 21 - Making Graphs and Manipulating Images](https://automatetheboringstuff.com/3e/chapter21.html)
 ### Programs
 - [Add a Logo](./chapter-21/programs/resizeAndAddLogo.py)
+### Practice Programs
+- [Tile Maker](./chapter-21/practice-programs/tileMaker.py)
+- [Identifying Photo Folders on the Hard Drive](./chapter-21/practice-programs/photoFoldersOnDrive.py)
+- [Create Custom Seating Cards](./chapter-21/practice-programs/customSeatingCards.py)
