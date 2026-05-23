@@ -179,3 +179,9 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 - [Tile Maker](./chapter-21/practice-programs/tileMaker.py)
 - [Identifying Photo Folders on the Hard Drive](./chapter-21/practice-programs/photoFoldersOnDrive.py)
 - [Create Custom Seating Cards](./chapter-21/practice-programs/customSeatingCards.py)
+## [Chapter 23 - Controlling The Keyboard and Mouse](https://automatetheboringstuff.com/3e/chapter23.html)
+### Programs
+- [Spiral Draw](./chapter-23/programs/spiralDraw.py)
+### Practice Programs
+- [Looking Busy](./chapter-23/practice-programs/lookingBusy.py)
+- [Reading Text Fields with the Clipboard](./chapter-23/practice-programs/clipboardToReadTextField.py)
