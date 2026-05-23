@@ -185,3 +185,10 @@ Completed Automate The Boring Stuff (3rd Edition) Programs, Projects & Practice 
 ### Practice Programs
 - [Looking Busy](./chapter-23/practice-programs/lookingBusy.py)
 - [Reading Text Fields with the Clipboard](./chapter-23/practice-programs/clipboardToReadTextField.py)
+## [Chapter 24 - Text-To-Speech and Speech Recognition Engines](https://automatetheboringstuff.com/3e/chapter24.html)
+### Programs
+- [Hello TTS](./chapter-24/programs/hello_tts.py)
+### Practice Programs
+- [Adding Voice to Guess the Number](./chapter-24/practice-programs/guessTheNumberVoice.py)
+- [Singing "99 Bottles of Beer"](./chapter-24/practice-programs/sing99bottles.py)
+- [YouTube Transcriber](./chapter-24/practice-programs/ytTranscriber.py)
